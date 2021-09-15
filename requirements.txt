@@ -25,7 +25,7 @@ google-auth-httplib2
 google-auth-oauthlib
 googletrans==4.0.0-rc1
 gsearch
-gtts
+gTTS>=2.0.1
 hachoir
 heroku3
 html-telegraph-poster

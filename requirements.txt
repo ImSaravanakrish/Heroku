@@ -48,16 +48,6 @@ colour
 cowpy
 cryptg
 dnspython
-emoji
-gTTS-token>=1.1.3
-gTTS>=2.0.1
-gitpython
-geopy
-google-api-python-client==1.8.0
-google-auth-oauthlib
-google_images_download>=2.7.1
-googletrans>=2.4.0
-gsearch
 hachoir
 heroku3
 httplib2
